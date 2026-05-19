@@ -8,7 +8,7 @@ This is HQ9# Interpreter-a better version of HQ9+
 | `#` | Multiply the invisible counter by 2 |
 | `P` | Print `PANCAKES` |
 | `M` | Print a  fragment of the Linux kernel source |
-| `W` | Print an Undertale *Wrong Number* apology song |
+| `W` | Print an Undertale *Wrong Number* song |
 | `C` | Print a complete C program that prints "Hello, world!" |
 | `B` | Print `BarBarBarBarBar` |
 | `R` | **Run** the program and immediately stop. Everything after `R` on a line is ignored. |
